@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Bryson Class Challenge Don't do Something Pointless for 6.572 Seconds Straight (IMPOSSIBLE)
 
-You can use the [editor on GitHub](https://github.com/Dash-N-Die/Annotating-Bruh-Moments/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Annotating is a constant for Bryson's class, and we have to do so for the entirety of every book we will read this school year.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you find yourself stuck in this situation, the best solution is usually to ask for an immediate schedule change.
 
-### Markdown
+### Annotating
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Annotating is pretty much pointless. It is also quite destructive when it comes to consuming all of your sticky notes since you don't own the books. It eats them up about as fast as a blazing fire would if you made a massive pile of sticky notes and set it alight.
+![Fire](https://c8.alamy.com/zooms/9/21c38db34b0a43358e47e4546e0fb9a4/2byk4k4.jpg)
 
-```markdown
-Syntax highlighted code block
+(No Sticky Notes were harmed in the taking of this photo) (Do not try this at home. The stunts performed here were done by a professional. Do not try to replicate them on your own)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### The Sticky Note Graveyard
 
-1. Numbered
-2. List
+Jorge (My beloved) :(
 
-**Bold** and _Italic_ and `Code` text
+![Jorge:(](https://w7.pngwing.com/pngs/169/956/png-transparent-white-paper-illustration-post-it-note-paper-sticky-note-angle-white-photography-thumbnail.png)
 
-[Link](url) and ![Image](src)
-```
+2021-2021 - His life was split into pieces when he had to sacrifice himself for the Bryson annotations.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### More We Lost But Didn't List
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Dash-N-Die/Annotating-Bruh-Moments/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Find them [here](https://www.google.com/search?q=sticky+notes&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwsK_o9abzAhVO7J4KHcMJDvkQ_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1)
